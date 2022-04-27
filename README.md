@@ -1,12 +1,13 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). This challenge focus on grid layout management. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). This challenge focus on grid layout management. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 - 27 April 2022.
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
+- [Screenshot - Desktop](#screenshot-desktop)
+- [Screenshot - Mobile](#screenshot-mobile)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
@@ -17,6 +18,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ![](./desktop.png)
 
 ## Screenshot (Mobile)
+
 ![](./mobile.png)
 
 ## Links
@@ -37,7 +39,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Name - Mirza Monirul Alam
 - Frontend Mentor - [@EthenPage](https://www.frontendmentor.io/profile/ethenpage)
 - FreeCodeCamp - [@EthenPage](https://www.freecodecamp.org/EthenPage)
-
 
 ## Date
 
