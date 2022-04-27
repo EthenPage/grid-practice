@@ -2,6 +2,8 @@
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). This challenge focus on grid layout management. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+- 27 April 2022.
+
 ## Table of contents
 
 - [Screenshot](#screenshot)
@@ -10,9 +12,12 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [Author](#author)
 - [Date](#date)
 
-## Screenshot
+## Screenshot (Desktop)
 
-![](./screenshot.jpg)
+![](./desktop.png)
+
+## Screenshot (Mobile)
+![](./mobile.png)
 
 ## Links
 
