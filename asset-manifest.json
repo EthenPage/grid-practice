@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/grid-practice/static/css/main.57058534.css",
+    "main.js": "/grid-practice/static/js/main.26d5c012.js",
+    "index.html": "/grid-practice/index.html",
+    "static/media/bg-pattern-quotation.svg": "/grid-practice/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.57058534.css.map": "/grid-practice/static/css/main.57058534.css.map",
+    "main.26d5c012.js.map": "/grid-practice/static/js/main.26d5c012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57058534.css",
+    "static/js/main.26d5c012.js"
+  ]
+}
